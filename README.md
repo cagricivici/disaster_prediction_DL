@@ -5,6 +5,13 @@ Train.csv file is prepared for training model. This file contains 891 passengers
 
 Test.csv file is prepared for testing model which is trained. This file contains 418 passengers. Actually Kaggle serves us to use raw dataset but we divide 2 part for train and test. Our division coefficient is set as 0,67. 
 
+Our tensor: 7 - 3 - 1 ('activation function: softplus')(3 layers)  
+Optimizer: Adam
+Loss function: binary cross entropy
+LR: 0,001
+
+
+
 As result, my project is to present training models according to different batch size (2 and 2^n). In myresults.csv, each batch size has values which means who can survive or die.  
 
 
