@@ -15,7 +15,7 @@ LR: 0,001
 
 As result, my project is to present training models according to different batch size (2 and 2^n). In myresults.csv, each batch size has values which means who can survive or die.  
 
-*ps: in different epoches, acuuracy and loss metric values are not different. That's why, especially for my model, changing epoch size directly affect runtime, not accuracy and loss metrics.
+*ps: in different epoches, acuuracy and loss metric values are not different. That's why, especially for my model, changing epoch size directly affect runtime, not accuracy and loss metrics. (Comment from: https://github.com/keras-team/keras/issues/3027)
 
 
 
