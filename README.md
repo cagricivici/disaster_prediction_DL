@@ -18,7 +18,7 @@ LR: 0,001
 
 As result, my project is to present training models according to different batch size (2 and 2^n). In prediction_excel.csv, each batch size has values which means who can survive or die.  
 
-*ps: in different epoches, loss_and_metric values are not different. That's why, especially for my model, changing epoch size directly affect runtime.
+P.S: in different epoches, loss_and_metric values are not different. That's why, especially for my model, changing epoch size directly affect runtime.
 (Comment from: https://github.com/keras-team/keras/issues/3027). In addition, **this metric is only used to judge the performance of my model**. 
 
 
