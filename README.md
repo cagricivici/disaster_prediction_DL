@@ -1,4 +1,5 @@
-# Deep Learning Project with Titanic Dataset from Kaggle
+## TITANIC DISASTER 
+
 It was focus on examining the effect of different batch sizes. The purpose of this repo is to visualise results in a page csv file.
  
 Train.csv file is prepared for training model. This file contains 891 passengers with its personal information such as sex, cabin, age, fare, embarked, cabin class which is called 'feature'. Each feature could effect the results - survived or died. 
