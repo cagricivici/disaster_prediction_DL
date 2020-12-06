@@ -1,5 +1,7 @@
 ## TITANIC DISASTER 
 
+![titanik-gemisi](https://user-images.githubusercontent.com/49865957/101279886-aa9ee080-37d6-11eb-8f32-5a0e15653835.jpg)
+
 It was focus on examining the effect of different batch sizes. The purpose of this repo is to visualise results in a page csv file.
  
 Train.csv file is prepared for training model. This file contains 891 passengers with its personal information such as sex, cabin, age, fare, embarked, cabin class which is called 'feature'. Each feature could effect the results - survived or died. 
