@@ -3,7 +3,7 @@
 ![titanik-gemisi](https://user-images.githubusercontent.com/49865957/101279886-aa9ee080-37d6-11eb-8f32-5a0e15653835.jpg)
 
 It was focus on examining the effect of different batch sizes. The purpose of this repo is to visualise results.
- 
+
 Train.csv file is prepared for training model. This file contains 891 passengers with its personal information such as sex, cabin, age, fare, embarked, cabin class which is called 'feature'. Each feature could effect the results - survived or died. 
 
 Test.csv file is prepared for testing model which is trained. This file contains 418 passengers. Actually Kaggle serves us to use raw dataset but we divide 2 part for train and test. 
